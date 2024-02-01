@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは, I'm Alnur</h1>
-<h3 align="center">Unity 3D Game Developer from Kazakhstan</h3>
+<h3 align="center">Unity 3D Game Developer from Kazakhstan (previous Front-End Developer)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xwvwww&label=Profile%20views&color=0e75b6&style=flat" alt="xwvwww" /> </p>
 
