@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on 3D Game Project https://github.com/xwvwww/3D-Game
 
-- 🌱 I’m currently learning Unity 3D & C#
+- 🌱 Also, currently learning Unity 3D & C#
 
 - 👨‍💻 All of my projects are available at [https://github.com/xwvwww](https://github.com/xwvwww)
 
