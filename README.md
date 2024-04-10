@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on 3D Game Project https://github.com/xwvwww/3D-Game
+- 🔭 I’m currently working on TopDown 2D Game Project https://github.com/xwvwww/TopDown-2D-Game
 
 - 🌱 Also, currently learning Unity 3D & C#
 
